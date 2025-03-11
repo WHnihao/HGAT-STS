@@ -1,5 +1,5 @@
 # HGAT-STS
-Similarity Calculation Based on Heterogeneous Graph Attention Networks (HGAT)
+Semantic Textual Similarity Based on Heterogeneous Graph Attention Networks (HGAT)
 # HGAT-STS
 
 ## Setup
