@@ -1,0 +1,16 @@
+python==3.6
+
+conda install pytorch==1.6.0 torchvision==0.7.0 torchaudio==0.7.0 cudatoolkit=10.1 -c pytorch
+
+conda install pytorch==1.6.0 torchvision==0.7.0 cudatoolkit=10.1 -c pytorch
+
+pip install -r requirements.txt
+requirements-----(torch==1.6.0
+pytorch_lightning==0.9.0
+scikit-learn==0.23.2
+spacy==2.3.2
+nltk==3.5)
+
+pip install dgl   pip install --pre dgl-cu101 (The installation order of the two components cannot be reversed.)
+
+python -m spacy download en_core_web_sm
